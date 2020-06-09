@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /images/
-Disallow: /contact.html
+Disallow: /techum/images/
+Disallow: /techum/contact.html
